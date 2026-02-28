@@ -1,0 +1,5 @@
+/* Global reset - component styles are in App.jsx */
+body {
+  margin: 0;
+  padding: 0;
+}
